@@ -1,17 +1,12 @@
 langchain
+
 langchain-core
+
 langchain-community
 
 langchain-google-genai
+
 google-generativeai
 
-langchain-huggingface
-huggingface-hub
-transformers
-
 python-dotenv
-faiss-cpu
-pymupdf
-youtube-transcript-api
-torch
-streamlit
+
